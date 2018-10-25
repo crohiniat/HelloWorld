@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 14DE-B323
+
+ Directory of C:\SimpleJAVAProj
+
+25-10-2018  05.58 PM    <DIR>          .
+25-10-2018  05.58 PM    <DIR>          ..
+25-10-2018  05.17 PM               684 AddTwoIntegers.class
+25-10-2018  04.44 PM               270 AddTwoIntegers.java
+25-10-2018  05.58 PM                 0 redme.txt
+               3 File(s)            954 bytes
+               2 Dir(s)  75,281,457,152 bytes free
